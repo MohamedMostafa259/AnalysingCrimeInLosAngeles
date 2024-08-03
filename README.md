@@ -72,34 +72,34 @@ It is a modified version of the original data, which is publicly available from 
 ![Crime Incidents by Area and Sex](https://github.com/MohamedMostafa259/AnalysingCrimeInLosAngeles/blob/b17a8aa729591d076f40a9ce98bf6783d5a62677/visualizations/Crime%20Incidents%20in%20Each%20Area%20Grouped%20by%20Victim's%20Sex.png)
 
 ### Crime Incidents by Victim's Origin
-![Crime Incidents by Victim's Origin](https://github.com/MohamedMostafa259/AnalysingCrimeInLosAngeles/blob/main/visualizations/Crime%20Incidents%20by%20Victim's%20Origin.png)
+![Crime Incidents by Victim's Origin](https://github.com/MohamedMostafa259/AnalysingCrimeInLosAngeles/blob/b17a8aa729591d076f40a9ce98bf6783d5a62677/visualizations/Crime%20Incidents%20by%20Victim's%20Origin.png)
 
 ### Crime Incidents by Victim's Sex
-![Crime Incidents by Victim's Sex](https://github.com/MohamedMostafa259/AnalysingCrimeInLosAngeles/blob/main/visualizations/Crime%20Incidents%20by%20Victim's%20Sex.png)
+![Crime Incidents by Victim's Sex](https://github.com/MohamedMostafa259/AnalysingCrimeInLosAngeles/blob/b17a8aa729591d076f40a9ce98bf6783d5a62677/visualizations/Crime%20Incidents%20by%20Victim's%20Sex.png)
 
 ### Distribution of Victim Ages by Sex
-![Victim Age Distribution](path/to/your/image4.png)
+![Victim Age Distribution](https://github.com/MohamedMostafa259/AnalysingCrimeInLosAngeles/blob/b17a8aa729591d076f40a9ce98bf6783d5a62677/visualizations/Distribution%20of%20Victim%20Ages%20by%20Sex.png)
 
 ### Frequency of Victims by Age Group
-![Victims by Age Group](path/to/your/image5.png)
+![Victims by Age Group](https://github.com/MohamedMostafa259/AnalysingCrimeInLosAngeles/blob/b17a8aa729591d076f40a9ce98bf6783d5a62677/visualizations/Frequency%20of%20Victims%20by%20Age%20Group.png)
 
 ### Frequency of Different Status Descriptions in Crimes
-![Crime Status](path/to/your/image6.png)
+![Crime Status](https://github.com/MohamedMostafa259/AnalysingCrimeInLosAngeles/blob/b17a8aa729591d076f40a9ce98bf6783d5a62677/visualizations/Frequency%20of%20Different%20Status%20Descriptions%20in%20Crimes.png)
 
 ### Crime Incidents Over Time
-![Crime Over Time](path/to/your/image7.png)
+![Crime Over Time](https://github.com/MohamedMostafa259/AnalysingCrimeInLosAngeles/blob/b17a8aa729591d076f40a9ce98bf6783d5a62677/visualizations/Crime%20Incidents%20Over%20Time.png)
 
 ### Number of Crime Incidents for Each Month
-![Crime by Month](path/to/your/image8.png)
+![Crime by Month](https://github.com/MohamedMostafa259/AnalysingCrimeInLosAngeles/blob/b17a8aa729591d076f40a9ce98bf6783d5a62677/visualizations/Number%20of%20Crime%20Incidents%20for%20Each%20Month.png)
 
 ### Number of Crime Incidents for Each Day
-![Crime by Day](path/to/your/image9.png)
+![Crime by Day](https://github.com/MohamedMostafa259/AnalysingCrimeInLosAngeles/blob/b17a8aa729591d076f40a9ce98bf6783d5a62677/visualizations/Number%20of%20Crime%20Incidents%20for%20Each%20Day.png)
 
 ### Number of Crimes for Each Hour
-![Crime by Hour](path/to/your/image10.png)
+![Crime by Hour](https://github.com/MohamedMostafa259/AnalysingCrimeInLosAngeles/blob/b17a8aa729591d076f40a9ce98bf6783d5a62677/visualizations/Number%20of%20Crimes%20for%20Each%20Hour.png)
 
 ### Night Crime Incidents in Each Area Grouped by Victim's Sex
-![Night Crime by Area and Sex](path/to/your/image11.png)
+![Night Crime by Area and Sex](https://github.com/MohamedMostafa259/AnalysingCrimeInLosAngeles/blob/b17a8aa729591d076f40a9ce98bf6783d5a62677/visualizations/Night%20Crime%20Incidents%20in%20Each%20Area%20Grouped%20by%20Victim's%20Sex.png)
 
 ## Conclusion
 
