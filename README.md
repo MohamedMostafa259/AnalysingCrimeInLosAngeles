@@ -69,13 +69,13 @@ It is a modified version of the original data, which is publicly available from 
 ## Results
 
 ### Crime Incidents in Each Area Grouped by Victim's Sex
-![Crime Incidents by Area and Sex](path/to/your/image1.png)
+![Crime Incidents by Area and Sex](https://github.com/MohamedMostafa259/AnalysingCrimeInLosAngeles/blob/b17a8aa729591d076f40a9ce98bf6783d5a62677/visualizations/Crime%20Incidents%20in%20Each%20Area%20Grouped%20by%20Victim's%20Sex.png)
 
 ### Crime Incidents by Victim's Origin
-![Crime Incidents by Victim's Origin](path/to/your/image2.png)
+![Crime Incidents by Victim's Origin](https://github.com/MohamedMostafa259/AnalysingCrimeInLosAngeles/blob/main/visualizations/Crime%20Incidents%20by%20Victim's%20Origin.png)
 
 ### Crime Incidents by Victim's Sex
-![Crime Incidents by Victim's Sex](path/to/your/image3.png)
+![Crime Incidents by Victim's Sex](https://github.com/MohamedMostafa259/AnalysingCrimeInLosAngeles/blob/main/visualizations/Crime%20Incidents%20by%20Victim's%20Sex.png)
 
 ### Distribution of Victim Ages by Sex
 ![Victim Age Distribution](path/to/your/image4.png)
