@@ -45,16 +45,16 @@ It is a modified version of the original data, which is publicly available from 
 | `'Status Desc'` | Crime status.                                                                                                                 |
 | `'LOCATION'`  | Street address of the crime.                                                                                                  |
 
-## Task
+## Analysis Objectives
 
 -   Where is the majority of crimes happens?
 -   which gender of victims is more common in each area?
 
 -   What is the most frequent descent of victims?
 
--   What is the most frequent gender of the victims?
+-   What is the most common gender of the victims?
 
--   What is the most common age for victims of each gender?
+-   What is the most prevalent age for victims of each gender?
     -   What is the number of crimes committed against victims of different age groups? (age group labels: "0-17", "18-25", "26-34", "35-44", "45-54", "55-64", and "65+")
     
 -   What is the most prevalent crime status?
@@ -68,37 +68,38 @@ It is a modified version of the original data, which is publicly available from 
 
 ## Results
 
-### Crime Incidents in Each Area Grouped by Victim's Sex
+###   Where is the majority of crimes happens?
+###   which gender of victims is more common in each area?
 ![Crime Incidents by Area and Sex](https://github.com/MohamedMostafa259/AnalysingCrimeInLosAngeles/blob/b17a8aa729591d076f40a9ce98bf6783d5a62677/visualizations/Crime%20Incidents%20in%20Each%20Area%20Grouped%20by%20Victim's%20Sex.png)
 
-### Crime Incidents by Victim's Origin
+### What is the most frequent descent of victims?
 ![Crime Incidents by Victim's Origin](https://github.com/MohamedMostafa259/AnalysingCrimeInLosAngeles/blob/b17a8aa729591d076f40a9ce98bf6783d5a62677/visualizations/Crime%20Incidents%20by%20Victim's%20Origin.png)
 
-### Crime Incidents by Victim's Sex
+### What is the most common gender of the victims?
 ![Crime Incidents by Victim's Sex](https://github.com/MohamedMostafa259/AnalysingCrimeInLosAngeles/blob/b17a8aa729591d076f40a9ce98bf6783d5a62677/visualizations/Crime%20Incidents%20by%20Victim's%20Sex.png)
 
-### Distribution of Victim Ages by Sex
+### What is the most prevalent age for victims of each gender?
 ![Victim Age Distribution](https://github.com/MohamedMostafa259/AnalysingCrimeInLosAngeles/blob/b17a8aa729591d076f40a9ce98bf6783d5a62677/visualizations/Distribution%20of%20Victim%20Ages%20by%20Sex.png)
 
-### Frequency of Victims by Age Group
+### What is the number of crimes committed against victims of different age groups? (age group labels: "0-17", "18-25", "26-34", "35-44", "45-54", "55-64", and "65+")
 ![Victims by Age Group](https://github.com/MohamedMostafa259/AnalysingCrimeInLosAngeles/blob/b17a8aa729591d076f40a9ce98bf6783d5a62677/visualizations/Frequency%20of%20Victims%20by%20Age%20Group.png)
 
-### Frequency of Different Status Descriptions in Crimes
+### What is the most prevalent crime status?
 ![Crime Status](https://github.com/MohamedMostafa259/AnalysingCrimeInLosAngeles/blob/b17a8aa729591d076f40a9ce98bf6783d5a62677/visualizations/Frequency%20of%20Different%20Status%20Descriptions%20in%20Crimes.png)
 
 ### Crime Incidents Over Time
 ![Crime Over Time](https://github.com/MohamedMostafa259/AnalysingCrimeInLosAngeles/blob/b17a8aa729591d076f40a9ce98bf6783d5a62677/visualizations/Crime%20Incidents%20Over%20Time.png)
 
-### Number of Crime Incidents for Each Month
+### Do crime incidents increase in certain months?
 ![Crime by Month](https://github.com/MohamedMostafa259/AnalysingCrimeInLosAngeles/blob/b17a8aa729591d076f40a9ce98bf6783d5a62677/visualizations/Number%20of%20Crime%20Incidents%20for%20Each%20Month.png)
 
-### Number of Crime Incidents for Each Day
+### Do crime incidents increase on certain days?
 ![Crime by Day](https://github.com/MohamedMostafa259/AnalysingCrimeInLosAngeles/blob/b17a8aa729591d076f40a9ce98bf6783d5a62677/visualizations/Number%20of%20Crime%20Incidents%20for%20Each%20Day.png)
 
-### Number of Crimes for Each Hour
+### Do crime incidents increase at certain hours?
 ![Crime by Hour](https://github.com/MohamedMostafa259/AnalysingCrimeInLosAngeles/blob/b17a8aa729591d076f40a9ce98bf6783d5a62677/visualizations/Number%20of%20Crimes%20for%20Each%20Hour.png)
 
-### Night Crime Incidents in Each Area Grouped by Victim's Sex
+### Which area has the largest frequency of night crimes (crimes committed between 10pm and 3:59am)?
 ![Night Crime by Area and Sex](https://github.com/MohamedMostafa259/AnalysingCrimeInLosAngeles/blob/b17a8aa729591d076f40a9ce98bf6783d5a62677/visualizations/Night%20Crime%20Incidents%20in%20Each%20Area%20Grouped%20by%20Victim's%20Sex.png)
 
 ## Conclusion
